@@ -31,7 +31,7 @@ function Navbar() {
             <StyledApp>
         <div>
             <nav className="navbar navbar-expand-lg bg-body-tertiary">
-      <div style={{marginRight: "50px", fontSize: "20px"}} className="container-fluid">
+      <div style={{marginRight: "50px", fontSize: "20px", maxWidth: "100%"}} className="container-fluid">
       <a className="navbar-brand" href="/Home"> <img src={Logo} width="180rem" height="120rem" alt="company logo" /></a>
         
         <button

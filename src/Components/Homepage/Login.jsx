@@ -13,15 +13,15 @@ function Login() {
 
   return (
     <div style={{textAlign: "center", display: "grid", placeItems:"center", marginTop: "12%"}}>
-      <h1 className="title" style={{ textAlign: "center", fontSize: "60px" }}>Login Form</h1>
+      <h1 className="title" style={{ textAlign: "center", fontSize: "2rem" }}>Login Form</h1>
       <br />
-      <form  onSubmit={handleSubmit} style={{fontSize: "30px"}} className="App">
+      <form  onSubmit={handleSubmit} style={{fontSize: "1rem"}} className="App">
         <input required type="text" placeholder="Username" />
         <br />
         <br />
         <input required type="password" placeholder="Password" />
         <br />
-        <button style={{marginTop: "20px"}} className="btn btn-primary btn-lg">Sign in</button>
+        <button style={{marginTop: "20px"}} className="btn btn-primary">Sign in</button>
       </form>
     </div>
   );
