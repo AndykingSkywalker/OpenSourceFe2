@@ -5,9 +5,9 @@ pipeline {
     }
     environment {
         HEROKU_API_KEY = credentials('heroku-api-key')
-        IMAGE_NAME = 'AndykingSkywalker/OpenSourceFE'
+        IMAGE_NAME = 'AndykingSkywalker/OpenSourceFE2'
         IMAGE_TAG = 'latest'
-        APP_NAME = 'OpenSourceFE'
+        APP_NAME = 'OpenSourceFE2'
     }
     stages {
         stage('Build') {
