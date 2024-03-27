@@ -30,7 +30,7 @@ function CreateBasket() {
 
   return (
   <div className="card-group d-inline-flex padding" style={{ padding: "10px" }}>
-    <div class="card border-dark mb-3" style={{ width: "17%" }}>
+    <div class="card border-dark mb-3" style={{ width: "14rem", marginLeft:"0.2rem" }}>
       
     <form hidden={BasketExists} onSubmit={handleSubmit}>
       <div className="container" id="CreateBasket">
