@@ -12,10 +12,10 @@
 
 ## Backend Functionality
 > My react app is linked to a Backend which is a Java Springboot Application
-> In order for any Axios requests to work you must have the backend running. You can find my backend here https://github.com/AndykingSkywalker/OpenSourceBE
+> In order for any Axios requests to work you must have the backend running. You can find my backend [here](https://github.com/AndykingSkywalker/OpenSourceBE)
 
 ---
 
-> Once the backend is running you can navigate to `localhost:8088/swagger-ui/index.html` and you will see clear documentation for my Rest API
+> Once the backend is running you can navigate to [swagger](localhost:8088/swagger-ui/index.html) and you will see clear documentation for my Rest API
 
-## Any questions about my project please contact me via my Twitter @Andrewk640
+## Any questions about my project please contact me via my Twitter [@Andrewk640](https://twitter.com/andrewk640)
