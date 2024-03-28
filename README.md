@@ -10,6 +10,9 @@
 
 > Once this is done you can simply use `npm start` to launch the React App
 
+---
+### Alternatively you can view my deployed site on [Heroku](https://opensourcefe2-6596049e1a19.herokuapp.com/)
+---
 ## Backend Functionality
 > My react app is linked to a Backend which is a Java Springboot Application
 > In order for any Axios requests to work you must have the backend running. You can find my backend [here](https://github.com/AndykingSkywalker/OpenSourceBE)
