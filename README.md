@@ -16,6 +16,6 @@
 
 ---
 
-> Once the backend is running you can navigate to [swagger](localhost:8088/swagger-ui/index.html) and you will see clear documentation for my Rest API
+> Once the backend is running you can navigate to swagger via `localhost:8088/swagger-ui/index.html` and you will see clear documentation for my Rest API
 
 ## Any questions about my project please contact me via my Twitter [@Andrewk640](https://twitter.com/andrewk640)
